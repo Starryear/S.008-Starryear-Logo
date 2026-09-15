@@ -1,0 +1,4 @@
+interface:
+  display_name: "【S-008】Starryear — Visual Mark｜影像成标"
+  short_description: "将2–5张照片、英文艺术字与原创标志融为一体"
+  default_prompt: "Use $s-008-starryear-visual-mark to turn my 2–5 photographs into one surprising vertical 2:3 visual identity with an English art-wordmark."
