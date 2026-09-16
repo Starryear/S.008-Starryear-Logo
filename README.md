@@ -1,6 +1,6 @@
 <div align="center">
 
-# ◩ 【S-008】Starryear — Visual Mark｜影像成标
+# 【S.008】Starryear-Logo丨星年·印记
 
 **把 2–5 张散装照片提炼为摄影、英文艺术字与原创品牌标志共生的竖版视觉识别作品。**
 
